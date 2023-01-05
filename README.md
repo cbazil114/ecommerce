@@ -37,7 +37,10 @@ The repository is public, and can be accessed, and adjusted, by anyone with a Gi
 
 Once you have done the final step in the Usage section, you can access the application using Insomnia to test the GET, POST, PUT, and DELETE capabilities. 
 
-## Screenshots
+## Walkthrough
+
+Watch the walkthrough video at the following link: 
+[Screencastify](https://drive.google.com/file/d/1hm-quNDurkICc2vxFx9Ev-I-ktOOEpWS/view)
 
 ## Questions
 
